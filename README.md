@@ -15,6 +15,6 @@ For example, that mean average of the numbers 2, 3, 4, 7, and 9 (summing to 25) 
 
 2. Trouver l'indice central : Calculez l'indice central de votre ensemble de données en utilisant la formule 
 
-indice_central=(n+1)/2, où n est le nombre total de valeurs.
+    indice_central=(n+1)/2, où n est le nombre total de valeurs.
 
 3. Identifier la médiane : La médiane est la valeur située à l'indice central.
