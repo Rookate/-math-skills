@@ -9,12 +9,14 @@ For example, that mean average of the numbers 2, 3, 4, 7, and 9 (summing to 25) 
 ### Median : 
 
 
- #### Pour un ensemble de données impair :
+ #### For an odd data set : 
 
-1. Trier les données : Organisez les valeurs de l'ensemble de données du plus petit au plus grand.
+1. Sort data : Arrange the values of the data set from smallest to largest.
 
-2. Trouver l'indice central : Calculez l'indice central de votre ensemble de données en utilisant la formule 
+2. Find the central index : Calculate the central index of your data set using the following formula : 
 
-    indice_central=(n+1)/2, où n est le nombre total de valeurs.
+    central_index=(n+1)/2, n is the total number of values
 
-3. Identifier la médiane : La médiane est la valeur située à l'indice central.
+3. Identify the median: The median is the value located at the central index.
+
+For exemple : 1, 3, 5, 11, 12 (5+1) / 2 = 3. The median is the value located at the central index, so it's 5 
