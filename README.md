@@ -93,4 +93,6 @@ The standard deviation is a measure of the amount of variation or dispersion in 
 
 _For exemple if we take the previous result "4.16" we just need to square root the result._
 
-\sigma = \sqrt{4} = 2
+Square root of 4 is 2
+
+So, the standard deviation is 2, indicating that the values are, on average, 2 units away from the mean
