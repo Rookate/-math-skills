@@ -9,7 +9,7 @@ For example, that mean average of the numbers 2, 3, 4, 7, and 9 (summing to 25) 
 ### Median : 
 
 
- ## Pour un ensemble de données impair :
+ #### Pour un ensemble de données impair :
 
 1. Trier les données : Organisez les valeurs de l'ensemble de données du plus petit au plus grand.
 
