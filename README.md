@@ -8,6 +8,7 @@ For example, that mean average of the numbers 2, 3, 4, 7, and 9 (summing to 25) 
 
 ### Median : 
 
+**The median is the value in the middle of a data set, meaning that 50% of data points have a value smaller or equal to the median and 50% of data points have a value higher or equal to the median.**
 
  #### For an odd data set : 
 
