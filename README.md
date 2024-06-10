@@ -19,4 +19,4 @@ For example, that mean average of the numbers 2, 3, 4, 7, and 9 (summing to 25) 
 
 3. Identify the median: The median is the value located at the central index.
 
-For exemple : 1, 3, 5, 11, 12 (5+1) / 2 = 3. The median is the value located at the central index, so it's 5 
+> For exemple : 1, 3, 5, 11, 12 (5+1) / 2 = 3. The median is the value located at the central index, so it's 5 
