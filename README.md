@@ -38,4 +38,4 @@ _For exemple : 1, 3, 5, 11, 12 : (5+1) / 2 = 3. The median is the value located 
 
 4. Calculate the median : The median is the average of the two central values.
 
-_For exemple : 1, 3, 5, 11 : 4/2 = 2 and (4/2) + 1 = 3. (3+5) / 2 = 4. The median is 4 
+_For exemple : 1, 3, 5, 11 : 4/2 = 2 and (4/2) + 1 = 3. (3+5) / 2 = 4. The median is 4_
