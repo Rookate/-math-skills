@@ -21,4 +21,15 @@ _The median is the value in the middle of a data set, meaning that 50% of data p
 3. Identify the median: The median is the value located at the central index.
 
 
-_For exemple : 1, 3, 5, 11, 12 (5+1) / 2 = 3. The median is the value located at the central index, so it's 5_ 
+_For exemple : 1, 3, 5, 11, 12 (5+1) / 2 = 3. The median is the value located at the central index, so it's 5_
+
+#### For an even data set :
+
+1. Sort data : Arrange the values of the data set from smallest to largest.
+
+2. Find the two central index : Calculate the central index of your data set using the following fomula :
+
+ - central_index_1 = n/2
+ - central_index_2 = (n/2) + 1, n is the total number of values.
+
+3. Identify the two central values : 
