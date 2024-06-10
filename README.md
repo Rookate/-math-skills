@@ -79,11 +79,11 @@ So, the variance is 4.16, which means that the values in this set are, on averag
 ---
 The standard deviation is a measure of the amount of variation or dispersion in a set of values. It indicates how much the values in a data set tend to deviate from the mean (average) value of the data set.
 
-### Why It's Useful:
+#### Why It's Useful:
 - **Low standard deviation**: Indicates that the values tend to be close to the mean.
 - **High standard deviation**: Indicates that the values are spread out over a wider range.
 
-### How to Calculate Standard Deviation:
+#### How to Calculate Standard Deviation:
 
 1. **Find the mean**: Add up all the values and divide by the total number of values.
 2. **Calculate the deviations**: Subtract the mean from each value (this gives the deviation from the mean).
