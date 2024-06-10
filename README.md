@@ -93,6 +93,4 @@ The standard deviation is a measure of the amount of variation or dispersion in 
 
 _For exemple if we take the previous result "4.16" we just need to square root the result._
 
-```go
 \sigma = \sqrt{4} = 2
-```
