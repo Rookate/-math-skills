@@ -1,6 +1,12 @@
 This is a project about calculating the following
 ===================================================
 
+> For run this program you need to use the following command : 
+
+```sh 
+go run main/main.go data.txt
+```
+
 ### Average : 
 ---
 The sum of the numbers divided by how many numbers are in the list.
