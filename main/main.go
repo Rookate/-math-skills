@@ -5,6 +5,7 @@ import (
 	"math"
 	"os"
 	"skills"
+	"strconv"
 )
 
 func main() {
@@ -17,7 +18,8 @@ func main() {
 	fmt.Println("Median : ", math.Round(median))
 
 	variance := skills.Variance(data)
-	fmt.Println("Variance : ", math.Round(variance))
+	conv := strconv.FormatInt(int64(math.Round(variance)), 10)
+	fmt.Println("Variance : ", conv)
 
 	standart_variation := skills.Standart(data)
 	fmt.Println("Standart Variation : ", math.Round(standart_variation))
