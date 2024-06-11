@@ -4,7 +4,7 @@ import (
 	"math"
 )
 
-func Standart(data []int) float64 {
+func Standard(data []int) float64 {
 	variance := Variance(data)
 
 	deviation := math.Sqrt(variance)
